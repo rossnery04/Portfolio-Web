@@ -3,7 +3,7 @@ Este repositorio contiene mi portafolio profesional como desarrolladora. Aquí p
 
 ````
 📁 Portfolio-web/
-*📄 index.html # Página principal (landing)
+"*"📄 index.html # Página principal (landing)
 ├── 📁 web-projects/ # Proyectos web (frontend, UI, UX)
 ├── 📁 backend-projects/ # Proyectos backend (C++, APIs, lógica de servidor)
 ├── 📁 big-projects/ # Proyectos grandes e integradores (IA, apps, juegos)
